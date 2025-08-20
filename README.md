@@ -8,12 +8,6 @@ Language Spoken: Indonesian (Native), English (Proficient)
 
 First Programming Language: Python
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/muhammad-habiburrahman-8a9277229/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:habiburrahmanmuhammad20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mhabbatain)
-[![X (Formerly Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/habib_mydev)
-
 ## Get to Know Me
 
 Hello, i'm **Habiburrahman** 
@@ -34,7 +28,6 @@ I'm a highly motivated Junior Data Analyst/Scientist with a strong foundation in
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=fff)](#)
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?style=for-the-badge&logo=tableau&logoColor=fff)](#)
-[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?style=for-the-badge&logo=etl-logo&logoColor=fff)](#)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=fff)](#)
 
 ## Portfolio Projects
@@ -72,5 +65,14 @@ I'm a highly motivated Junior Data Analyst/Scientist with a strong foundation in
 2. xxx
 3. xxx
 
+## Contact Information
 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/muhammad-habiburrahman-8a9277229/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mhabbatain)
+[![X (Formerly Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/habib_mydev)
+
+Email @:
+
+habiburrahmanmuhammad20@gmail.com
 
