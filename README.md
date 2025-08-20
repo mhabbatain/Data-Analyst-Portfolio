@@ -1,12 +1,12 @@
 # Muhammad Habiburrahman - Junior Data Analyst
 
+Address: Jambi, Indonesia
+
 Born: June 25
 
 Hobby: Swimming, Coding, & Reading
 
 Language Spoken: Indonesian (Native), English (Proficient)
-
-First Programming Language: Python
 
 ## Get to Know Me
 
